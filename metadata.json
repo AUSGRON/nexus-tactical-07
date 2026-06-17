@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS 07 Tactical Portal",
+  "description": "A fully responsive futuristic sci-fi hero section and tactical interface for the NEXUS-07 Cyber Soldier, featuring looping background video controls, interactive terminal, and high-tech combat HUD overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
